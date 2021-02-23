@@ -3,9 +3,11 @@
 🍊Σ（ﾟдﾟlll）
 
 - 博客: [CHEYNE | 🍊Σ（ﾟдﾟlll）橙子真香](https://liudecheng.com)
-- 交盆友: [Bilibili](https://space.bilibili.com/177898/)
-- van♂游戏: [Steam](https://steamcommunity.com/id/ch3yne/)
-- 其他游戏平台:
+- 交盆友: 
+  - 哔哩哔哩: [吃香喷喷的大橙子](https://space.bilibili.com/177898/)
+  - 新浪微博: [成成橙成成](https://weibo.com/2369773380)
+- van♂游戏:
+  - Steam: [CHEYNE](https://steamcommunity.com/id/ch3yne/)
   - PSN: che_yne
   - Switch: SW-2037-2259-4418
   - Origin: ch3yne
