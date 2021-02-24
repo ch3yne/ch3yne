@@ -16,6 +16,21 @@
   - 战网(国际服): CHEYNE#4360
   - 战网(国服): CHEYNE#51382
 
+
+
+![CHEYNE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch3yne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical)
+
+<!--
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+-->
+
 <!--
 **ch3yne/ch3yne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
