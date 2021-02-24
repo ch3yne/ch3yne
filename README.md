@@ -24,7 +24,7 @@
     </li>
     <li>
     	<a href="javascript:viod(0)" target="_blank">
-        <img alt="Nintendo_Switch" src="https://img.shields.io/static/v1?&style=for-the-badge&logo=nintendo-switch&label=nintendo_switch&message=SW-2037-2259-4418&logoColor=white&labelColor=E60012&color=ffffff" />
+        <img alt="Nintendo_Switch" src="https://img.shields.io/static/v1?&style=for-the-badge&logo=nintendo-switch&label=nintendo+switch&message=SW-2037-2259-4418&logoColor=white&labelColor=E60012&color=ffffff" />
       </a>
     </li>
     <li>
