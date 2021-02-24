@@ -4,17 +4,9 @@
 
 <img alt="China" src="https://www.flaticon.com/svg/vstatic/svg/206/206818.svg?token=exp=1614139797~hmac=061cc7554033d61e3042f787a76fde0e" width="30" /> 
 
-<style>
-  ul {
-    list-style: none;
-  }
-  li {
-    padding: 5px;
-  }
-</style>
 <h3>找我van♂游戏</h3>
 <p>
-  <ul>
+  <ul style="list-style: none;">
     <li>
     	<a href="https://steamcommunity.com/id/ch3yne/" target="_blank">
         <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
