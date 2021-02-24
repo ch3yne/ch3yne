@@ -19,7 +19,7 @@
     </li>
     <li>
     	<a href="javascript:viod(0)" target="_blank">
-        <img alt="XBox" src="https://img.shields.io/static/v1?&style=for-the-badge&logo=xbox&label=xbox&message=ch3yne&logoColor=white&labelColor=107C10&color=ffffff" />
+        <img alt="XBox" src="https://img.shields.io/static/v1?&style=for-the-badge&logo=xbox&label=xbox&message=CHEYME&logoColor=white&labelColor=107C10&color=ffffff" />
       </a>
     </li>
     <li>
@@ -34,7 +34,7 @@
     </li>
     <li>
     	<a href="javascript:viod(0)" target="_blank">
-        <img alt="Ubi" src="https://img.shields.io/static/v1?&style=for-the-badge&logo=ubisoft&label=ubisoft&message=ch3yne&logoColor=white&labelColor=black&color=ffffff" />
+        <img alt="Ubisoft" src="https://img.shields.io/static/v1?&style=for-the-badge&logo=ubisoft&label=ubisoft&message=ch3yne&logoColor=white&labelColor=black&color=ffffff" />
       </a>
     </li>
 	</ul>
